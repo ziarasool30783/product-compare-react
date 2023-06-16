@@ -8,7 +8,7 @@ It's build on top of [`create-react-app`](http://www.google.lt)
 
 Usage
 -
-Documentation how to *run*, *build* and *test* apps
+Documentation how to *run*, *build* and *test* app
 
 > https://github.com/facebookincubator/create-react-app#npm-start-or-yarn-start
 
